@@ -1,7 +1,7 @@
 # Storybook Newsletter Signup
 This is a simple signup web application working on a backend built with node.js and express.js
 
-The live application can be seen [here]().
+The live application can be seen [here](https://storybook-newsletter-signup.herokuapp.com/).
 
 ## Tech Stack used :
 ### Frontend
@@ -22,4 +22,4 @@ The live application can be seen [here]().
 * nodemon 
 
 ### Heroku Host Link
-## [CLICK ME !]()
+## [CLICK ME !](https://storybook-newsletter-signup.herokuapp.com/)
