@@ -3,6 +3,9 @@ This is a simple signup web application working on a backend built with node.js 
 
 The live application can be seen [here](https://storybook-newsletter-signup.herokuapp.com/).
 
+#### Agenda
+This project was made to gain the basic understanding of the backend development. It covered topics like working with APIs and the conversion of a static web page into a web application.
+
 ## Tech Stack used :
 ### Frontend
 * **Bootstrap 4**
@@ -17,7 +20,7 @@ The live application can be seen [here](https://storybook-newsletter-signup.hero
 ### API Used 
 * [Mailchimp API](https://mailchimp.com/) (for managing the storage - subscribers)
   
-#### Dev Support
+### Dev Support
 * dotenv
 * nodemon 
 
