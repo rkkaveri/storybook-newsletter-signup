@@ -1,0 +1,26 @@
+.jumbotron {
+  border-radius: 1rem;
+  color: white;
+  width: 80%;
+  -webkit-box-shadow: 2px 2px 8px whitesmoke;
+          box-shadow: 2px 2px 8px whitesmoke;
+  margin-bottom: 0;
+}
+
+.failure {
+  background-color: rgba(247, 0, 0, 0.87);
+}
+
+.btn {
+  max-width: 300px;
+  border: 1px solid blanchedalmond;
+}
+
+.success {
+  background-color: #048b57;
+}
+
+.copywrite {
+  color: rgba(255, 255, 255, 0.473);
+}
+/*# sourceMappingURL=status.css.map */
